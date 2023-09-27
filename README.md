@@ -26,7 +26,7 @@ TBD
 TBD
 
 ## Basic instructions
-First you need to prepare the "Master" board.
+TBD
 
 ## Roadmap
 (informative, could be done next week or never ....)
